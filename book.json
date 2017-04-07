@@ -1,0 +1,18 @@
+{
+    "plugins": [ "theme-api" ],
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "api",
+                    "name": "API",
+                    "default": true
+                },
+                {
+                    "lang": "internal",
+                    "name": "Internal"
+                }
+            ]
+        }
+    }
+}
